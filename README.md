@@ -1,4 +1,4 @@
-# HealthNest - Thesis Project Proposal
+# ElderCareNet - Thesis Project Proposal
 
 ## Title:
 Social Networking Platform for Elderly: An Interactive Health Article Community
